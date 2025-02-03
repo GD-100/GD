@@ -1,0 +1,45 @@
+C:\Users\Disco Design\Downloads\New folder\С++\CourseProject.Infrastructure\bin\Debug\net8.0\CourseProject.Infrastructure.deps.json
+C:\Users\Disco Design\Downloads\New folder\С++\CourseProject.Infrastructure\bin\Debug\net8.0\CourseProject.Infrastructure.dll
+C:\Users\Disco Design\Downloads\New folder\С++\CourseProject.Infrastructure\bin\Debug\net8.0\CourseProject.Infrastructure.pdb
+C:\Users\Disco Design\Downloads\New folder\С++\CourseProject.Infrastructure\bin\Debug\net8.0\CourseProject.Domain.dll
+C:\Users\Disco Design\Downloads\New folder\С++\CourseProject.Infrastructure\bin\Debug\net8.0\CourseProject.Domain.pdb
+C:\Users\Disco Design\Downloads\New folder\С++\CourseProject.Infrastructure\obj\Debug\net8.0\CourseProject.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Disco Design\Downloads\New folder\С++\CourseProject.Infrastructure\obj\Debug\net8.0\CourseProject.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Disco Design\Downloads\New folder\С++\CourseProject.Infrastructure\obj\Debug\net8.0\CourseProject.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Disco Design\Downloads\New folder\С++\CourseProject.Infrastructure\obj\Debug\net8.0\CourseProject.Infrastructure.AssemblyInfo.cs
+C:\Users\Disco Design\Downloads\New folder\С++\CourseProject.Infrastructure\obj\Debug\net8.0\CourseProject.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Disco Design\Downloads\New folder\С++\CourseProject.Infrastructure\obj\Debug\net8.0\CoursePr.04C7B572.Up2Date
+C:\Users\Disco Design\Downloads\New folder\С++\CourseProject.Infrastructure\obj\Debug\net8.0\CourseProject.Infrastructure.dll
+C:\Users\Disco Design\Downloads\New folder\С++\CourseProject.Infrastructure\obj\Debug\net8.0\refint\CourseProject.Infrastructure.dll
+C:\Users\Disco Design\Downloads\New folder\С++\CourseProject.Infrastructure\obj\Debug\net8.0\CourseProject.Infrastructure.pdb
+C:\Users\Disco Design\Downloads\New folder\С++\CourseProject.Infrastructure\obj\Debug\net8.0\ref\CourseProject.Infrastructure.dll
+C:\Users\MSI\Desktop\Програмиране C#\CourseProject.Infrastructure\bin\Debug\net8.0\CourseProject.Infrastructure.deps.json
+C:\Users\MSI\Desktop\Програмиране C#\CourseProject.Infrastructure\bin\Debug\net8.0\CourseProject.Infrastructure.dll
+C:\Users\MSI\Desktop\Програмиране C#\CourseProject.Infrastructure\bin\Debug\net8.0\CourseProject.Infrastructure.pdb
+C:\Users\MSI\Desktop\Програмиране C#\CourseProject.Infrastructure\bin\Debug\net8.0\CourseProject.Domain.dll
+C:\Users\MSI\Desktop\Програмиране C#\CourseProject.Infrastructure\bin\Debug\net8.0\CourseProject.Domain.pdb
+C:\Users\MSI\Desktop\Програмиране C#\CourseProject.Infrastructure\obj\Debug\net8.0\CourseProject.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\Програмиране C#\CourseProject.Infrastructure\obj\Debug\net8.0\CourseProject.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\Програмиране C#\CourseProject.Infrastructure\obj\Debug\net8.0\CourseProject.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\Програмиране C#\CourseProject.Infrastructure\obj\Debug\net8.0\CourseProject.Infrastructure.AssemblyInfo.cs
+C:\Users\MSI\Desktop\Програмиране C#\CourseProject.Infrastructure\obj\Debug\net8.0\CourseProject.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Програмиране C#\CourseProject.Infrastructure\obj\Debug\net8.0\CoursePr.04C7B572.Up2Date
+C:\Users\MSI\Desktop\Програмиране C#\CourseProject.Infrastructure\obj\Debug\net8.0\CourseProject.Infrastructure.dll
+C:\Users\MSI\Desktop\Програмиране C#\CourseProject.Infrastructure\obj\Debug\net8.0\refint\CourseProject.Infrastructure.dll
+C:\Users\MSI\Desktop\Програмиране C#\CourseProject.Infrastructure\obj\Debug\net8.0\CourseProject.Infrastructure.pdb
+C:\Users\MSI\Desktop\Програмиране C#\CourseProject.Infrastructure\obj\Debug\net8.0\ref\CourseProject.Infrastructure.dll
+C:\Users\MSI\Desktop\Курсова работа Герорги Димитров ИКИ C#\CourseProject.Infrastructure\bin\Debug\net8.0\CourseProject.Infrastructure.deps.json
+C:\Users\MSI\Desktop\Курсова работа Герорги Димитров ИКИ C#\CourseProject.Infrastructure\bin\Debug\net8.0\CourseProject.Infrastructure.dll
+C:\Users\MSI\Desktop\Курсова работа Герорги Димитров ИКИ C#\CourseProject.Infrastructure\bin\Debug\net8.0\CourseProject.Infrastructure.pdb
+C:\Users\MSI\Desktop\Курсова работа Герорги Димитров ИКИ C#\CourseProject.Infrastructure\bin\Debug\net8.0\CourseProject.Domain.dll
+C:\Users\MSI\Desktop\Курсова работа Герорги Димитров ИКИ C#\CourseProject.Infrastructure\bin\Debug\net8.0\CourseProject.Domain.pdb
+C:\Users\MSI\Desktop\Курсова работа Герорги Димитров ИКИ C#\CourseProject.Infrastructure\obj\Debug\net8.0\CourseProject.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\Курсова работа Герорги Димитров ИКИ C#\CourseProject.Infrastructure\obj\Debug\net8.0\CourseProject.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\Курсова работа Герорги Димитров ИКИ C#\CourseProject.Infrastructure\obj\Debug\net8.0\CourseProject.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\Курсова работа Герорги Димитров ИКИ C#\CourseProject.Infrastructure\obj\Debug\net8.0\CourseProject.Infrastructure.AssemblyInfo.cs
+C:\Users\MSI\Desktop\Курсова работа Герорги Димитров ИКИ C#\CourseProject.Infrastructure\obj\Debug\net8.0\CourseProject.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Курсова работа Герорги Димитров ИКИ C#\CourseProject.Infrastructure\obj\Debug\net8.0\CoursePr.04C7B572.Up2Date
+C:\Users\MSI\Desktop\Курсова работа Герорги Димитров ИКИ C#\CourseProject.Infrastructure\obj\Debug\net8.0\CourseProject.Infrastructure.dll
+C:\Users\MSI\Desktop\Курсова работа Герорги Димитров ИКИ C#\CourseProject.Infrastructure\obj\Debug\net8.0\refint\CourseProject.Infrastructure.dll
+C:\Users\MSI\Desktop\Курсова работа Герорги Димитров ИКИ C#\CourseProject.Infrastructure\obj\Debug\net8.0\CourseProject.Infrastructure.pdb
+C:\Users\MSI\Desktop\Курсова работа Герорги Димитров ИКИ C#\CourseProject.Infrastructure\obj\Debug\net8.0\ref\CourseProject.Infrastructure.dll

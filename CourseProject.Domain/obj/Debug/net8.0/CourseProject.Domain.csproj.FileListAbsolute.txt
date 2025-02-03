@@ -1,0 +1,33 @@
+C:\Users\Disco Design\Downloads\New folder\С++\CourseProject.Domain\bin\Debug\net8.0\CourseProject.Domain.deps.json
+C:\Users\Disco Design\Downloads\New folder\С++\CourseProject.Domain\bin\Debug\net8.0\CourseProject.Domain.dll
+C:\Users\Disco Design\Downloads\New folder\С++\CourseProject.Domain\bin\Debug\net8.0\CourseProject.Domain.pdb
+C:\Users\Disco Design\Downloads\New folder\С++\CourseProject.Domain\obj\Debug\net8.0\CourseProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Disco Design\Downloads\New folder\С++\CourseProject.Domain\obj\Debug\net8.0\CourseProject.Domain.AssemblyInfoInputs.cache
+C:\Users\Disco Design\Downloads\New folder\С++\CourseProject.Domain\obj\Debug\net8.0\CourseProject.Domain.AssemblyInfo.cs
+C:\Users\Disco Design\Downloads\New folder\С++\CourseProject.Domain\obj\Debug\net8.0\CourseProject.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Disco Design\Downloads\New folder\С++\CourseProject.Domain\obj\Debug\net8.0\CourseProject.Domain.dll
+C:\Users\Disco Design\Downloads\New folder\С++\CourseProject.Domain\obj\Debug\net8.0\refint\CourseProject.Domain.dll
+C:\Users\Disco Design\Downloads\New folder\С++\CourseProject.Domain\obj\Debug\net8.0\CourseProject.Domain.pdb
+C:\Users\Disco Design\Downloads\New folder\С++\CourseProject.Domain\obj\Debug\net8.0\ref\CourseProject.Domain.dll
+C:\Users\MSI\Desktop\Програмиране C#\CourseProject.Domain\bin\Debug\net8.0\CourseProject.Domain.deps.json
+C:\Users\MSI\Desktop\Програмиране C#\CourseProject.Domain\bin\Debug\net8.0\CourseProject.Domain.dll
+C:\Users\MSI\Desktop\Програмиране C#\CourseProject.Domain\bin\Debug\net8.0\CourseProject.Domain.pdb
+C:\Users\MSI\Desktop\Програмиране C#\CourseProject.Domain\obj\Debug\net8.0\CourseProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\Програмиране C#\CourseProject.Domain\obj\Debug\net8.0\CourseProject.Domain.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\Програмиране C#\CourseProject.Domain\obj\Debug\net8.0\CourseProject.Domain.AssemblyInfo.cs
+C:\Users\MSI\Desktop\Програмиране C#\CourseProject.Domain\obj\Debug\net8.0\CourseProject.Domain.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Програмиране C#\CourseProject.Domain\obj\Debug\net8.0\CourseProject.Domain.dll
+C:\Users\MSI\Desktop\Програмиране C#\CourseProject.Domain\obj\Debug\net8.0\refint\CourseProject.Domain.dll
+C:\Users\MSI\Desktop\Програмиране C#\CourseProject.Domain\obj\Debug\net8.0\CourseProject.Domain.pdb
+C:\Users\MSI\Desktop\Програмиране C#\CourseProject.Domain\obj\Debug\net8.0\ref\CourseProject.Domain.dll
+C:\Users\MSI\Desktop\Курсова работа Герорги Димитров ИКИ C#\CourseProject.Domain\bin\Debug\net8.0\CourseProject.Domain.deps.json
+C:\Users\MSI\Desktop\Курсова работа Герорги Димитров ИКИ C#\CourseProject.Domain\bin\Debug\net8.0\CourseProject.Domain.dll
+C:\Users\MSI\Desktop\Курсова работа Герорги Димитров ИКИ C#\CourseProject.Domain\bin\Debug\net8.0\CourseProject.Domain.pdb
+C:\Users\MSI\Desktop\Курсова работа Герорги Димитров ИКИ C#\CourseProject.Domain\obj\Debug\net8.0\CourseProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\Курсова работа Герорги Димитров ИКИ C#\CourseProject.Domain\obj\Debug\net8.0\CourseProject.Domain.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\Курсова работа Герорги Димитров ИКИ C#\CourseProject.Domain\obj\Debug\net8.0\CourseProject.Domain.AssemblyInfo.cs
+C:\Users\MSI\Desktop\Курсова работа Герорги Димитров ИКИ C#\CourseProject.Domain\obj\Debug\net8.0\CourseProject.Domain.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Курсова работа Герорги Димитров ИКИ C#\CourseProject.Domain\obj\Debug\net8.0\CourseProject.Domain.dll
+C:\Users\MSI\Desktop\Курсова работа Герорги Димитров ИКИ C#\CourseProject.Domain\obj\Debug\net8.0\refint\CourseProject.Domain.dll
+C:\Users\MSI\Desktop\Курсова работа Герорги Димитров ИКИ C#\CourseProject.Domain\obj\Debug\net8.0\CourseProject.Domain.pdb
+C:\Users\MSI\Desktop\Курсова работа Герорги Димитров ИКИ C#\CourseProject.Domain\obj\Debug\net8.0\ref\CourseProject.Domain.dll
